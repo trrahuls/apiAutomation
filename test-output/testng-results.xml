@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-01T21:50:20 IST" name="Default suite" finished-at="2024-02-01T21:50:23 IST" duration-ms="2783">
+    <groups>
+    </groups>
+    <test started-at="2024-02-01T21:50:20 IST" name="Default test" finished-at="2024-02-01T21:50:23 IST" duration-ms="2783">
+      <class name="api_auto.HTTPSRequest">
+        <test-method signature="getUsers()[pri:1, instance:api_auto.HTTPSRequest@2b91004a]" started-at="2024-02-01T21:50:20 IST" name="getUsers" finished-at="2024-02-01T21:50:21 IST" duration-ms="1490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUsers -->
+        <test-method signature="createUser()[pri:2, instance:api_auto.HTTPSRequest@2b91004a]" started-at="2024-02-01T21:50:21 IST" name="createUser" finished-at="2024-02-01T21:50:23 IST" duration-ms="1252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+      </class> <!-- api_auto.HTTPSRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
